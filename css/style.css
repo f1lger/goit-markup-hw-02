@@ -24,10 +24,10 @@ p {
   letter-spacing: 0.03em;
   text-align: left;
   text-decoration: none;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 .logo span {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 .body-medium {
   font-size: 16px;
@@ -41,10 +41,10 @@ p {
   text-decoration: none;
 }
 .body-medium a:hover {
-  color: #404bbf;
 }
-.body-medium a:active {
+.body-medium a:focus {
   text-decoration: underline;
+  color: #404bbf;
 }
 .contacts {
   font-family: "Roboto", sans-serif;
