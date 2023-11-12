@@ -1,5 +1,8 @@
 body {
   font-family: "Roboto", sans-serif;
+	color: #434455;
+	background-color: #ffffff;
+
 }
 ul {
   list-style-type: none;
@@ -14,7 +17,7 @@ h3 {
 p {
 }
 .logo {
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway" ;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.2;
@@ -112,7 +115,7 @@ p {
 	color: #f4f4fd;
 }
 .footer-logo {
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway";
   font-size: 18px;
   font-weight: 700;
   line-height: 1.2;
