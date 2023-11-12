@@ -1,0 +1,126 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+ul {
+  list-style-type: none;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+p {
+}
+.logo {
+  font-family: "Raleway" sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-decoration: none;
+  color: #2e2f42;
+}
+.logo span {
+  color: #4d5ae5;
+}
+.body-medium {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.body-medium a {
+  color: #2e2f42;
+  text-decoration: none;
+}
+.body-medium a:hover {
+  color: #404bbf;
+}
+.body-medium a:active {
+  text-decoration: underline;
+}
+.contacts {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.contacts a {
+  color: #434455;
+  text-decoration: none;
+}
+.contacts a:hover {
+  color: #404bbf;
+}
+.Dark-bg {
+  background-color: #2e2f42;
+  text-align: center;
+}
+.header-1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.button {
+  background-color: #4d5ae5;
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #404bbf;
+}
+.Features-list {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #434455;
+}
+.header-2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.our-team li {
+  text-align: center;
+}
+.list-portfolio {
+  text-align: left;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer p {
+	color: #f4f4fd;
+}
+.footer-logo {
+  font-family: "Raleway" sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-decoration: none;
+	color: #f4f4fd
+}
+.footer-logo span {
+	color: #4d5ae5;
+}
