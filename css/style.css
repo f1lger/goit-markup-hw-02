@@ -13,8 +13,6 @@ h3 {
   line-height: 24px;
   letter-spacing: 0.02em;
 }
-p {
-}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -27,7 +25,7 @@ p {
 .logo span {
   color: #2e2f42;
 }
-.body-medium a {
+.body-medium {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
@@ -41,7 +39,7 @@ p {
   text-decoration: underline;
   color: #404bbf;
 }
-.contacts a {
+.contacts {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
