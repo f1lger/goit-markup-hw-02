@@ -25,7 +25,7 @@ h3 {
 .logo span {
   color: #2e2f42;
 }
-.body-medium {
+.body-medium a { 
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
