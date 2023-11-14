@@ -59,7 +59,7 @@ h3 {
   background-color: #2e2f42;
   text-align: center;
 }
-.sec-title-h1 {
+.sec-title {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -83,7 +83,7 @@ h3 {
 .button:focus {
   background-color: #404bbf;
 }
-.sec-2-list-title {
+.sec-two-list-title {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
@@ -92,7 +92,7 @@ h3 {
   text-align: left;
   color: #2e2f42;
 }
-.sec-2-list-text {
+.sec-two-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
