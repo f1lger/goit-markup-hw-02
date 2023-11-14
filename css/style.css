@@ -83,17 +83,11 @@ h3 {
 .button:focus {
   background-color: #404bbf;
 }
-.sec-2-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-}
 .sec-2-list-title {
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: left;
   color: #2e2f42;
