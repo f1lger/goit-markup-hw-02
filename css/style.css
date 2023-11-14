@@ -25,17 +25,17 @@ h3 {
 .logo span {
   color: #2e2f42;
 }
-.body-medium a { 
+.body-medium { 
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #2e2f42;
   line-height: 1.5;
 }
-.body-medium a:hover {
+.body-medium:hover {
   color: #404bbf;
 }
-.body-medium a:focus {
+.body-medium:focus {
   text-decoration: underline;
   color: #404bbf;
 }
