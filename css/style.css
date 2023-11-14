@@ -59,8 +59,7 @@ h3 {
   background-color: #2e2f42;
   text-align: center;
 }
-.title-h1 {
-  font-family: "Roboto", sans-serif;
+.sec-title-h1 {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -84,14 +83,25 @@ h3 {
 .button:focus {
   background-color: #404bbf;
 }
-.list-title {
+.sec-2-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.sec-2-list-title {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
   color: #2e2f42;
+}
+.sec-2-list-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .team-cont {
   background-color: #f4f4fd;
