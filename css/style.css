@@ -84,25 +84,34 @@ h3 {
 .button:focus {
   background-color: #404bbf;
 }
-.Features-list {
+.list-title {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
   text-align: left;
-  color: #434455;
+  color: #2e2f42;
 }
-.header-2 {
+.team-cont {
+  background-color: #f4f4fd;
+}
+.team-list {
+  text-align: center;
+}
+.team-title {
   font-family: "Roboto", sans-serif;
+  line-height: 1.1;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
-.our-team li {
-  text-align: center;
+.workers {
+  background-color: #ffffff;
 }
 .list-portfolio {
   text-align: left;
