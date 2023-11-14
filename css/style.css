@@ -25,17 +25,17 @@ h3 {
 .logo span {
   color: #2e2f42;
 }
-.header-list { 
+.list { 
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
   line-height: 1.5;
 }
-.header-list:hover {
+.listt:hover {
   color: #404bbf;
 }
-.header-list:focus {
+.list:focus {
   text-decoration: underline;
   color: #404bbf;
 }
