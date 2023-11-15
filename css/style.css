@@ -104,10 +104,7 @@ h3 {
   text-align: center;
 }
 .team-title {
-
-}
-.workers > p {
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -115,6 +112,8 @@ h3 {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+}
+.workers {
   background-color: #ffffff;
 }
 .title-names {
