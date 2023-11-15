@@ -106,7 +106,7 @@ h3 {
 .team-title {
 
 }
-.workers > p,h3{
+.workers > p {
     font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
