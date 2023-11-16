@@ -136,15 +136,19 @@ h3 {
   color: #f4f4fd;
 }
 .footer-logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   text-align: left;
   text-decoration: none;
   color: #f4f4fd;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .footer-logo span {
-  color: #4d5ae5;
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em
 }
